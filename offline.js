@@ -1,0 +1,30 @@
+﻿{
+	"version": 1499689736,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/body-sheet0.png",
+		"images/left_hand-sheet0.png",
+		"images/left_hand-sheet1.png",
+		"images/right_hand-sheet0.png",
+		"images/right_hand-sheet1.png",
+		"images/monster-sheet0.png",
+		"images/monster-sheet1.png",
+		"images/monstermanager-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/touchcontroller_l-sheet0.png",
+		"images/touchcontroller_r-sheet0.png",
+		"images/tiledbackground.png",
+		"images/cloud-sheet0.png",
+		"images/spritefont.png",
+		"images/bgmanager-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
